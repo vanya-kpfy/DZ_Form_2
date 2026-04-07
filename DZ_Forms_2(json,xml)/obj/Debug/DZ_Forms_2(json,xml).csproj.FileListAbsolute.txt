@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DZ_Forms_2(json,xml)\DZ_Forms_2(json,xml)\bin\Debug\DZ_Forms_2(json,xml).exe.config
+C:\Users\user\source\repos\DZ_Forms_2(json,xml)\DZ_Forms_2(json,xml)\bin\Debug\DZ_Forms_2(json,xml).exe
+C:\Users\user\source\repos\DZ_Forms_2(json,xml)\DZ_Forms_2(json,xml)\bin\Debug\DZ_Forms_2(json,xml).pdb
+C:\Users\user\source\repos\DZ_Forms_2(json,xml)\DZ_Forms_2(json,xml)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\DZ_Forms_2(json,xml)\DZ_Forms_2(json,xml)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\DZ_Forms_2(json,xml)\DZ_Forms_2(json,xml)\obj\Debug\DZ_Forms_2(json,xml).csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DZ_Forms_2(json,xml)\DZ_Forms_2(json,xml)\obj\Debug\DZ_Forms_2_json_xml_.Forms.MainForm.resources
+C:\Users\user\source\repos\DZ_Forms_2(json,xml)\DZ_Forms_2(json,xml)\obj\Debug\DZ_Forms_2_json_xml_.Properties.Resources.resources
+C:\Users\user\source\repos\DZ_Forms_2(json,xml)\DZ_Forms_2(json,xml)\obj\Debug\DZ_Forms_2(json,xml).csproj.GenerateResource.cache
+C:\Users\user\source\repos\DZ_Forms_2(json,xml)\DZ_Forms_2(json,xml)\obj\Debug\DZ_Forms_2(json,xml).csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DZ_Forms_2(json,xml)\DZ_Forms_2(json,xml)\obj\Debug\DZ_Forms.E40AD129.Up2Date
+C:\Users\user\source\repos\DZ_Forms_2(json,xml)\DZ_Forms_2(json,xml)\obj\Debug\DZ_Forms_2(json,xml).exe
+C:\Users\user\source\repos\DZ_Forms_2(json,xml)\DZ_Forms_2(json,xml)\obj\Debug\DZ_Forms_2(json,xml).pdb
+C:\Users\user\source\repos\DZ_Forms_2(json,xml)\DZ_Forms_2(json,xml)\obj\Debug\DZ_Forms_2(json,xml).exe.config
+C:\Users\user\source\repos\DZ_Forms_2(json,xml)\DZ_Forms_2(json,xml)\bin\Debug\Recources\bus.png

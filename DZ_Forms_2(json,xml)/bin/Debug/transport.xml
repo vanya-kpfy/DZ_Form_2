@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransportData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Buses>
+    <Bus>
+      <Id>1</Id>
+      <Number>101</Number>
+      <Driver>
+        <Name>Иванов Иван Иванович</Name>
+        <Experience>12</Experience>
+      </Driver>
+      <Schedule>
+        <WeekdaysStart>05:30</WeekdaysStart>
+        <WeekdaysEnd>23:00</WeekdaysEnd>
+        <WeekendStart>06:00</WeekendStart>
+        <WeekendEnd>22:00</WeekendEnd>
+      </Schedule>
+      <Capacity>60</Capacity>
+    </Bus>
+    <Bus>
+      <Id>2</Id>
+      <Number>205</Number>
+      <Driver>
+        <Name>Петров Петр Петрович</Name>
+        <Experience>8</Experience>
+      </Driver>
+      <Schedule>
+        <WeekdaysStart>06:00</WeekdaysStart>
+        <WeekdaysEnd>22:30</WeekdaysEnd>
+        <WeekendStart>07:00</WeekendStart>
+        <WeekendEnd>21:30</WeekendEnd>
+      </Schedule>
+      <Capacity>50</Capacity>
+    </Bus>
+  </Buses>
+  <Trams>
+    <Tram>
+      <Id>1</Id>
+      <Number>3</Number>
+      <Driver>
+        <Name>Сидоров Сергей Сергеевич</Name>
+        <Experience>15</Experience>
+      </Driver>
+      <Schedule>
+        <WeekdaysStart>05:00</WeekdaysStart>
+        <WeekdaysEnd>00:00</WeekdaysEnd>
+        <WeekendStart>05:30</WeekendStart>
+        <WeekendEnd>23:30</WeekendEnd>
+      </Schedule>
+      <Capacity>120</Capacity>
+    </Tram>
+    <Tram>
+      <Id>2</Id>
+      <Number>7</Number>
+      <Driver>
+        <Name>Кузнецова Анна Андреевна</Name>
+        <Experience>6</Experience>
+      </Driver>
+      <Schedule>
+        <WeekdaysStart>06:00</WeekdaysStart>
+        <WeekdaysEnd>23:00</WeekdaysEnd>
+        <WeekendStart>06:30</WeekendStart>
+        <WeekendEnd>22:30</WeekendEnd>
+      </Schedule>
+      <Capacity>100</Capacity>
+    </Tram>
+  </Trams>
+  <Trolleybuses>
+    <Trolleybus>
+      <Id>1</Id>
+      <Number>12</Number>
+      <Driver>
+        <Name>Михайлов Михаил Михайлович</Name>
+        <Experience>10</Experience>
+      </Driver>
+      <Schedule>
+        <WeekdaysStart>05:45</WeekdaysStart>
+        <WeekdaysEnd>22:45</WeekdaysEnd>
+        <WeekendStart>06:15</WeekendStart>
+        <WeekendEnd>22:15</WeekendEnd>
+      </Schedule>
+      <Capacity>80</Capacity>
+    </Trolleybus>
+    <Trolleybus>
+      <Id>2</Id>
+      <Number>9</Number>
+      <Driver>
+        <Name>Егорова Елена Евгеньевна</Name>
+        <Experience>5</Experience>
+      </Driver>
+      <Schedule>
+        <WeekdaysStart>06:00</WeekdaysStart>
+        <WeekdaysEnd>21:00</WeekdaysEnd>
+        <WeekendStart>07:00</WeekendStart>
+        <WeekendEnd>20:00</WeekendEnd>
+      </Schedule>
+      <Capacity>70</Capacity>
+    </Trolleybus>
+  </Trolleybuses>
+</TransportData>
