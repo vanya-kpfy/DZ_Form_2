@@ -1,0 +1,13 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.tmp
+*.log
+*.pdb
+*.resources
+Data/*.json
+Data/*.xml
+!Data/.gitkeep

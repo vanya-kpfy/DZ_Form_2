@@ -1,0 +1,21 @@
+{
+  "Buses": [
+    {
+      "Id": 999,
+      "Number": "TEST",
+      "Driver": {
+        "Name": "Тестовый Водитель",
+        "Experience": 99
+      },
+      "Schedule": {
+        "WeekdaysStart": "00:00",
+        "WeekdaysEnd": "23:59",
+        "WeekendStart": "00:00",
+        "WeekendEnd": "23:59"
+      },
+      "Capacity": 999
+    }
+  ],
+  "Trams": [],
+  "Trolleybuses": []
+}
